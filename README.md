@@ -1,4 +1,4 @@
-# 🌩 Multi-Cloud CLI Setup Guide (Ubuntu)
+# 🌩 Multi-Cloud CLI Setup Guide (Linux - Ubuntu)
 
 This document describes installation and credential configuration for:
 
