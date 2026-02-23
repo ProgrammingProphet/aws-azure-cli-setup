@@ -1,4 +1,4 @@
-# 🌩 Multi-Cloud CLI Setup Guide (Ubuntu WSL)
+# 🌩 Multi-Cloud CLI Setup Guide (Ubuntu)
 
 This document describes installation and credential configuration for:
 
